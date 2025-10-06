@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/update-storage-system.html 
+keywords: update ontap storage system 
+summary: 새롭고 향상된 기능을 활용하려면 ONTAP 스토리지 시스템을 업데이트하세요. 
+---
+= 소프트웨어 업데이트를 사용하여 ONTAP 업데이트 시작
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+ONTAP 대상 버전을 식별하고 모든 차단 요소를 수정하고 확인한 후 이제 ONTAP 스토리지 시스템 업데이트를 시작할 수 있습니다.
+
+.단계
+. 콘솔 왼쪽 탐색에서 *상태* > *소프트웨어 업데이트*를 선택합니다.
++
+소프트웨어 업데이트가 필요한 클러스터 목록이 표시됩니다.
+
+. 스토리지 시스템에 대한 ONTAP 대상 버전을 식별합니다.  ONTAP 대상 버전을 식별하는 방법에 대한 자세한 내용은 다음을 참조하세요.link:../ONTAP/choose-ontap-910-later.html["소프트웨어 업데이트 사용의 이점과 위험을 이해하기 위해 ONTAP 버전을 비교하세요."] .
+. ONTAP 차단 요소를 수정하고 확인합니다.  차단기 수정에 대한 정보는 다음을 참조하세요.link:../ONTAP/fix-blockers-warnings.html["ONTAP 업그레이드 전 소프트웨어 업데이트를 사용하여 모든 차단기를 수정하세요."] .
+. 최종 사용자 라이선스 계약을 읽고 동의하세요.
++
+ONTAP 이미지가 검색될 때까지 기다리세요.
+
+. 업데이트 프로세스를 완료하려면 *업데이트 설치*를 클릭하세요.
+

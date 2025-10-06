@@ -1,0 +1,12 @@
+---
+section: ontap
+title: 소프트웨어 업데이트 사용
+entries:
+- title: 업데이트의 이점과 위험을 이해하기 위해 ONTAP 버전을 비교하세요.
+  url: "/ONTAP/choose-ontap-910-later.html"
+- title: ONTAP 차단기 수정 및 경고 확인
+  url: "/ONTAP/fix-blockers-warnings.html"
+- title: ONTAP 스토리지 시스템 업데이트 시작
+  url: "/ONTAP/update-storage-system.html"
+- title: ONTAP 스토리지 시스템 업데이트 상태 확인
+  url: "/ONTAP/validate-storage-system-update.html"
