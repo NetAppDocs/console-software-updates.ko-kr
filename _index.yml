@@ -31,7 +31,7 @@ indexpage:
   - title: 블로그 및 커뮤니티
     links:
     - title: NetApp 콘솔
-      url: https://www.netapp.com/console
+      url: https://www.netapp.com/console/
     - title: NetApp 데이터 서비스
       url: https://www.netapp.com/data-services/
     - title: NetApp 커뮤니티
