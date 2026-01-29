@@ -20,7 +20,7 @@ indexpage:
       url: "/get-started/software-updates-faq.html"
   - title: 소프트웨어 업데이트 사용
     links:
-    - title: ONTAP 대상 버전 9.10 이상을 선택하세요
+    - title: ONTAP 대상 버전 9.10.1 이상을 선택하십시오
       url: "/ONTAP/choose-ontap-910-later.html"
     - title: ONTAP 차단기 수정 및 확인
       url: "/ONTAP/fix-blockers-warnings.html"
